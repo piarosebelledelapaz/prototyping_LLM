@@ -6,3 +6,5 @@ Features:
 - Upload text or markdown files and ask the app to answer questions based on the content.
 - Secure input for OpenAI API keys with a sidebar widget.
 - Interactive questioning with enabled/disabled state based on file upload status.
+
+This prototype was done from a workshop from herHACK Switzerland.
